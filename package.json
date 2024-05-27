@@ -1,0 +1,11 @@
+{
+  "name": "typescript-type-hacking",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<vrama628@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
